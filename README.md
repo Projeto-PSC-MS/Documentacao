@@ -16,3 +16,21 @@
 
 - João Vitor Alves Lacerda
   - https://github.com/Joao453
+
+##  Product Backlog
+        (A preencher)
+
+##  Sprints
+        (A preencher) 
+
+##  Diagrama de Casos de Uso
+        (A preencher) 
+
+## Diagrama de Classes
+        (A preencher)
+
+## Diagrama Entidade-Relacionamento(Banco de dados)
+        ( A preencher) 
+
+## Modelo Relacional(Banco de dados) 
+        (A preencher) 
