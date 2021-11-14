@@ -1,10 +1,13 @@
-#  Documentação 
+#   Documentação 
 
-## - Definições e siglas
+##  Definições e siglas
        (A preencher)
        
-## -Cronograma
+##  Cronograma
        (A preencher)
        
-## - Colaboradores:
+##  Colaboradores:
 
+- Edson Eduardo de Deus Assis 
+- Erick Max Gonçalves de Almeida
+- João Vitor Alves Lacerda
