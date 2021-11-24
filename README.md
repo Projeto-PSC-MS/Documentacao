@@ -1,5 +1,8 @@
 #   Documentação 
 
+##  Objetivos do sistema
+- Em relação ao sistema em questão, trata-se de um jogo interativo de perguntas e respostas, em um formato que se assemelha ao estilo "trivia". A proposta é que por meio de uma série de questões de múltipla escolha, e podendo ser jogado entre duas pessoas em um formato de disputa, o jogo possa testar o conhecimento dos usuários a respeito das temáticas: Modelagem de Software e Programação Orientada à Objetos.
+
 
 ##  Definições e siglas
        (A preencher)
